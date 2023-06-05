@@ -28,7 +28,3 @@ Contribuições são bem-vindas! Se você deseja melhorar ou adicionar recursos 
 ## Licença
 
 Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT). Sinta-se à vontade para usar, modificar e distribuir o MescladorPDF de acordo com os termos da licença.
-
-## Contato
-
-Se você tiver alguma dúvida, sugestão ou problema relacionado ao MescladorPDF, entre em contato com o desenvolvedor no endereço de e-mail theobarretosilva@example.com.
